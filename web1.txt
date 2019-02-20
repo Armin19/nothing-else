@@ -1,0 +1,12 @@
+url
+uri
+query
+path
+Method : GET , POST , PUT , DELETE
+status code
+client-side , front-end
+server-side , back-end
+http headers
+cookie
+development tools in web browser , f12
+cache
